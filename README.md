@@ -1,5 +1,12 @@
 # ZEE5 — Personalized Movie Recommender System
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Type-Recommender%20System-gold)
+![Techniques](https://img.shields.io/badge/Techniques-CF%20%7C%20SVD%20%7C%20Hybrid%20Modeling-teal)
+![Libraries](https://img.shields.io/badge/Libraries-pandas%2C%20surprise%2C%20scikit--learn-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## 🎬 About ZEE5
 ZEE5 is one of India’s largest OTT streaming platforms, offering movies, shows, and web series across multiple languages and genres.  
 As the platform’s library expands, delivering **personalized recommendations** becomes essential to increase engagement, watch time, and user satisfaction.
